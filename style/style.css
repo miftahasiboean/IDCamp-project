@@ -1,0 +1,21 @@
+* {
+    overflow: auto;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin: 20px;
+}
+
+.logo {
+    float: left;
+}
+
+.navbar {
+    float: right;
+}
+
+footer {
+    background: linear-gradient(to left, #2c3e50, #bdc3c7);
+}
